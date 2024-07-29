@@ -1,0 +1,16 @@
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 1','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 2','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 3','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 4','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 5','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 6','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 7','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 8','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 9','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Java','Easy','jo1','jo2','jo3','jo4','Java 10','jo1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 1','po1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 2','po1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 3','po1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 4','po1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 5','po1');
+insert into question(ID,CATEGORY,DIFFICULTY_LEVEL,OPTION1,OPTION2,OPTION3,OPTION4,QUESTION_TITLE,RIGHT_ANSWER) values(default,'Python','Easy','po1','po2','po3','po4','Python 6','po1');
